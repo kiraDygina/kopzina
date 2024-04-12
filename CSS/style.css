@@ -1,0 +1,65 @@
+
+.logo{width: 300px;
+margin: 0 auto;
+background-color: blue;}
+
+h1{text-align: center;
+    }
+
+    section{display: flex;
+        width: 950px;
+        margin: 0 auto;
+       
+    justify-content: space-evenly;
+align-items: center;
+}
+p{text-align: center;
+font-weight: 700;
+color: green;}
+footer{background-color: gray;}
+
+article{display: flex;
+justify-content: space-evenly;
+align-items: center;
+color: white;
+width: 800px;
+height: 300px;
+margin: 0 auto;
+padding: 15px;}
+
+section{margin-bottom: 100px;}
+.banner{text-align: center;
+color: grey;}
+
+
+
+.card-title{text-align: center;}
+.card{border: none;}
+
+.knopka{border-radius: 10px;
+padding-left: 15px;
+height: 47px;
+padding-right: 15px;}
+
+.knopka:hover{background-color: rgb(167, 90, 167);
+color: white;}
+
+h6{display: inline-block;
+margin-left: 20px;
+color: gray;}
+
+
+nav{display: flex;
+    margin-bottom: 50px;
+    background-color: rgb(239, 230, 230);
+    height: 50px;
+justify-content: space-evenly;
+}
+nav a{text-decoration: none;
+color: black;
+font-weight: 500;
+}
+
+
+input{border-radius: 10px;
+padding: 10px;}
